@@ -1,3 +1,2 @@
-one
-two
-three
+l1=[2,4,6,2,3,1,9]
+print(l1.reverse())
