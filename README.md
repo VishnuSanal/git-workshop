@@ -1,3 +1,3 @@
-# Git Worksohp
+# Git Workshop
 
-This is a template rrepository to demo the workings of git to studens.
+This is a template repository to demo the workings of git to students.
